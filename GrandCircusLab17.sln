@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrandCircusLab17", "GrandCircusLab17\GrandCircusLab17.csproj", "{047F04ED-EC13-4851-87FF-3B9AFA1FBB6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab17Tests", "Lab17Tests\Lab17Tests.csproj", "{9BEB98B1-C93B-46B6-A815-8D0D90670F82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{047F04ED-EC13-4851-87FF-3B9AFA1FBB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{047F04ED-EC13-4851-87FF-3B9AFA1FBB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{047F04ED-EC13-4851-87FF-3B9AFA1FBB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BEB98B1-C93B-46B6-A815-8D0D90670F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BEB98B1-C93B-46B6-A815-8D0D90670F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BEB98B1-C93B-46B6-A815-8D0D90670F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BEB98B1-C93B-46B6-A815-8D0D90670F82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
